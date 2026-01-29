@@ -1,0 +1,3 @@
+Este é um material criado para validar a atividade do curso da DIO "Ia na Educação" (Santander). O curso teve acompanhamento on-line esclarecimento de conteúdos relacionado a IA, suas ferramentas, a gestão, organização das ideias, gerando conteúdo de atividades, avaliação, critérios de qualidade, ética e outros. 
+Como atividade final, tivemos que fazer um plano de aula e realizar uma apresentação, utilizando a IA. 
+Neste repositório, há o arquivo gerado para o plano de aula, seu respectivo pront e a apresentação do material gerado pela IA - o plano de aula foi feito do Chat GPT e a apresentação no Gamma 
